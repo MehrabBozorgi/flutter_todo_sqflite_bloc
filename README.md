@@ -1,6 +1,6 @@
 # flutter_sql_bloc
 
-Add these packages to pubspec.yaml : 
+Add this packages to pubspec.yaml : 
 👇👇
 flutter_bloc,  
 sqflite,  
